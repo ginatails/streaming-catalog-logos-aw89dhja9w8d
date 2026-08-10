@@ -1,4 +1,5 @@
-## Quick Links, same links w/ embedded images are below
+Permalinks to all images in repository
+## Quick Links, same links w/ embedded images for preview purposes are below
 ### Streaming Services
 
 [Netflix](https://raw.githubusercontent.com/ginatails/streaming-catalog-logos-aw89dhja9w8d/0ea48eea2287504f4383b248d99f40d2a3f3262b/Streaming%20Services/1-Netflix.png)
