@@ -52,5 +52,7 @@ Permalinks to all images in repository
 
 [Harry Potter](https://raw.githubusercontent.com/ginatails/streaming-catalog-logos-aw89dhja9w8d/0ea48eea2287504f4383b248d99f40d2a3f3262b/Franchises%20%26%20Studios/5-Harry-Potter.png)
 
+[Lord of the Rings](https://raw.githubusercontent.com/ginatails/streaming-catalog-logos-aw89dhja9w8d/ef2af7b63b8a66fbf169c1217f2580cc528471f7/Franchises%20%26%20Studios/5-Lord-of-the-Rings.png)
+
 [National Geographic](https://raw.githubusercontent.com/ginatails/streaming-catalog-logos-aw89dhja9w8d/0ea48eea2287504f4383b248d99f40d2a3f3262b/Franchises%20%26%20Studios/6-National%20Geographic.png)
 
