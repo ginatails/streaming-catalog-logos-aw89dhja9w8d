@@ -42,6 +42,8 @@ Permalinks to all images in repository
 
 [Spider-Man](https://raw.githubusercontent.com/ginatails/streaming-catalog-logos-aw89dhja9w8d/0ea48eea2287504f4383b248d99f40d2a3f3262b/Franchises%20%26%20Studios/2-Spider-man.png)
 
+[Spider-Man (2)](https://raw.githubusercontent.com/ginatails/streaming-catalog-logos-aw89dhja9w8d/28c9534c77c7395e683b65795c956f780b5728bb/Franchises%20%26%20Studios/Spider-man-alt.png)
+
 [DC](https://raw.githubusercontent.com/ginatails/streaming-catalog-logos-aw89dhja9w8d/0ea48eea2287504f4383b248d99f40d2a3f3262b/Franchises%20%26%20Studios/3-DC.png)
 
 [Batman](https://raw.githubusercontent.com/ginatails/streaming-catalog-logos-aw89dhja9w8d/0ea48eea2287504f4383b248d99f40d2a3f3262b/Franchises%20%26%20Studios/4-Batman.png)
@@ -101,6 +103,8 @@ Nickelodeon: ![Nickelodeon](https://raw.githubusercontent.com/ginatails/streamin
 Marvel: ![Marvel](https://raw.githubusercontent.com/ginatails/streaming-catalog-logos-aw89dhja9w8d/0ea48eea2287504f4383b248d99f40d2a3f3262b/Franchises%20%26%20Studios/1-Marvel.png)
 
 Spider-Man: ![Spider-Man](https://raw.githubusercontent.com/ginatails/streaming-catalog-logos-aw89dhja9w8d/0ea48eea2287504f4383b248d99f40d2a3f3262b/Franchises%20%26%20Studios/2-Spider-man.png)
+
+Spider-Man (2): ![Spider-Man (2)](https://raw.githubusercontent.com/ginatails/streaming-catalog-logos-aw89dhja9w8d/28c9534c77c7395e683b65795c956f780b5728bb/Franchises%20%26%20Studios/Spider-man-alt.png)
 
 DC: ![DC](https://raw.githubusercontent.com/ginatails/streaming-catalog-logos-aw89dhja9w8d/0ea48eea2287504f4383b248d99f40d2a3f3262b/Franchises%20%26%20Studios/3-DC.png)
 
